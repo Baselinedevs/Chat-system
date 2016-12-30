@@ -1,0 +1,12 @@
+ .img_cs {
+    height: 48px;
+}
+
+
+.account-box__img-icon {
+    float: left;
+}
+p.account_name {
+    padding-top: 17px;
+    padding-left: 74px;
+}
