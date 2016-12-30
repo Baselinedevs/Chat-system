@@ -11,7 +11,7 @@
 
     <title>Messanger</title>
 				 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-   <script type="text/javascript" src="message.js"></script>
+   <script type="text/javascript" src="js/message.js"></script>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -27,7 +27,7 @@
     <link href="css/startmin.css" rel="stylesheet">
 
     <!-- Morris Charts CSS -->
-    <link href="chat.css" rel="stylesheet"> <link href="css/morris.css" rel="stylesheet">
+    <link href="css/chat.css" rel="stylesheet"> <link href="css/morris.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
